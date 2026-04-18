@@ -1,0 +1,6 @@
+/**/
+
+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
+
+span usa quando vc quer modificar uma pequena parte do texto. Ex: h1: "Este é um texto para exemplo" vou mudar apenas a parte "é um texto" 
+h1"Este <span>é um texto<span>.
