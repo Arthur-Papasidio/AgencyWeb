@@ -7,3 +7,6 @@ h1"Este <span>é um texto<span> para exemplo.
 
 qnd ele ta dizendo por exemplo "div>h2" a div é pai do h2, e nesse msm exemplo ele usa "div>h2+p" agr ele quer dizer q "p" é irmão do h2
 (p sendo tmb filho de div)
+
+display: flex; é para no máximo 2 grupos
+display: grid; usa para quando tem 3 ou mais grupos
